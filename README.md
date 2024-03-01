@@ -12,6 +12,7 @@ Chronicles-of-the-hero is a simple fighting game created, alongside my friend an
 * Pyxel library
 ## 💻How to execute:
 * Clone the repository to your local computer.
+* Install pyxel library
 * Execute the code in a proper IDE.
 * Play and enjoy with a friend.
 ## 🎯Main goals and learnings:
